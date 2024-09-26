@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/navalBhagat/faq-accordion-fe-mentor)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://faq-accordion-fe-mentor-chi.vercel.app/)
 
 ## Author
 

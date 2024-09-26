@@ -1,1 +1,29 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: "WorkSans-Italic";
+  src: url("/assets/fonts/WorkSans-Italic-VariableFont_wght.ttf")
+    format("truetype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "WorkSans";
+  src: url("/assets/fonts/WorkSans-VariableFont_wght.ttf") format("truetype");
+}
+
+html {
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  font-family: "WorkSans";
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+app-root {
+  width: 100%;
+  height: 100%;
+}
