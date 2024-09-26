@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/navalBhagat/faq-accordion-fe-mentor)
 - Live Site URL: [Vercel](https://your-live-site-url.com)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@navalBhagat](https://www.frontendmentor.io/profile/navalBhagat)
