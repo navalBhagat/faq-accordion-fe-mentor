@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./public/assets/images/faq-accordion-screenshot.png)
 
 ### Links
 
