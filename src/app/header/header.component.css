@@ -1,0 +1,32 @@
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 3rem;
+  padding-top: 1rem;
+  margin-top: 2rem;
+  gap: 1rem;
+}
+
+.text {
+  font-size: xxx-large;
+  font-weight: 700;
+  padding-left: 0.5rem;
+}
+
+.star-icon {
+  height: 2.5rem;
+}
+
+@media (max-width: 500px) {
+  header {
+    gap: 0.5rem;
+    padding-left: 2rem;
+  }
+  .text {
+    font-size: xx-large;
+  }
+  .star-icon {
+    height: 1.5rem;
+  }
+}

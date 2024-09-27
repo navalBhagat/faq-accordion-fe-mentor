@@ -1,0 +1,24 @@
+.accordion {
+  color: hsl(292, 42%, 14%);
+  font-weight: 600;
+  margin-bottom: 2.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.accordion:hover {
+  color: #ad28eb;
+  cursor: pointer;
+}
+
+.accordion-content {
+  text-align: left;
+  color: hsl(292, 16%, 49%);
+  margin-top: -2rem;
+  font-size: 0.9rem;
+  font-weight: 350;
+  margin-bottom: 2rem;
+  line-height: 1.5rem;
+  word-spacing: 0.05rem;
+}
